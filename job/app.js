@@ -3,7 +3,7 @@
 //const app = express();
 //const request = require("request");
 //const path = require("path");
-console.log("hello");
+console.log("hello1");
 require("dotenv").config({
   silent: true
 });
@@ -18,7 +18,7 @@ const cors = require("cors");
 const myCOS = require("ibm-cos-sdk");
 
 
-console.log("hello");
+console.log("hello2");
 
 /**
  *Define Cloud OBject Storage client configuration
