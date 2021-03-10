@@ -1,8 +1,9 @@
-"use strict";
+//"use strict";
 //const express = require("express");
 //const app = express();
 //const request = require("request");
 //const path = require("path");
+console.log("hello");
 require("dotenv").config({
   silent: true
 });
